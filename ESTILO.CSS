@@ -1,0 +1,8 @@
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: rgb(240, 255, 245);}
+h1{color: rgb(0, 44, 139);text-align: center;}
+h2{color: rgb(0, 88, 139);text-align: center;}
+fieldset{margin-right: 50px; margin-left: 400px;}
+ul{text-align: center;}
+ol{text-align: center;}
+li{list-style: none;}
+table{margin-left: 450px; margin-right: 50px; border: 1px solid black; border-collapse: collapse;}
