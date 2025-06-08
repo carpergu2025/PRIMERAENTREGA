@@ -1,4 +1,6 @@
 body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: rgb(240, 255, 245);}
+header{background-color: rgb(199, 232, 52);text-align: center;color: blue;}
+footer{background-color: rgb(232, 232, 52);text-align: center;}
 h1{color: rgb(0, 44, 139);text-align: center;}
 h2{color: rgb(0, 88, 139);text-align: left;}
 fieldset{margin-right: 50px; margin-left: 50px;}
